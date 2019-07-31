@@ -1,0 +1,35 @@
+canvas {
+
+
+}
+#game-board {
+  margin: 0 300px;
+}
+
+#logo-game {
+
+}
+button {
+  margin-left: 50px;
+  align-self: center;
+  display: flex;
+}
+button > p {
+  margin: 0;
+}
+header {
+  margin-left: 300px; 
+  display: flex;
+}
+form {
+  /* display: flex; */
+  margin-left: 900px;
+  /* justify-content: space-between; */
+}
+form > input {
+  /* margin-left: 10px;
+  margin-right: 2px; */
+}
+#text {
+  font-size: 30px;
+}
